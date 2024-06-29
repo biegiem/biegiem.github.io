@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z_archiwum_borman_pl on Magiczny Las</title>
-    <link>http://localhost:1313/tags/z_archiwum_borman_pl/</link>
+    <link>https://biegiem.github.io/tags/z_archiwum_borman_pl/</link>
     <description>Recent content in Z_archiwum_borman_pl on Magiczny Las</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Wed, 30 Aug 2023 21:39:54 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/z_archiwum_borman_pl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://biegiem.github.io/tags/z_archiwum_borman_pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Krkonoše cz.1</title>
-      <link>http://localhost:1313/posts/2023-08-30-karkonosze/</link>
+      <link>https://biegiem.github.io/posts/2023-08-30-karkonosze/</link>
       <pubDate>Wed, 30 Aug 2023 21:39:54 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-08-30-karkonosze/</guid>
+      <guid>https://biegiem.github.io/posts/2023-08-30-karkonosze/</guid>
       <description>maj, 2011 rok Karkonosze mi się przejadły? Tak twierdziłem jeszcze do tamtej soboty. Znudzony schodzonymi wszerz i wzdłuż szlakami. Rozpychając się łokciami na drodze między Szrenicą a Śnieżką, szukając samotności, aby oddać się intymnej chwili, pieszcząc wzrok widokiem gór, gdzieś między głazami skalnego rumoszu Ścieżki Nad Reglami, wspinając się, zostawiając za sobą mury zamku Chojnik, w górę ku Śnieżnym Kotłom, spadając na złamanie karku obok jaru, przez kocioł ku Dolinie Łomniczki, medytując na szczycie Skalnego Stołu.</description>
     </item>
   </channel>

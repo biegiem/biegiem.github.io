@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Las on Magiczny Las</title>
-    <link>http://localhost:1313/tags/las/</link>
+    <link>https://biegiem.github.io/tags/las/</link>
     <description>Recent content in Las on Magiczny Las</description>
     <generator>Hugo</generator>
     <language>pl</language>
     <lastBuildDate>Sun, 23 Jul 2023 16:07:28 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/las/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://biegiem.github.io/tags/las/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>To las</title>
-      <link>http://localhost:1313/posts/2023-07-23-to_las/</link>
+      <link>https://biegiem.github.io/posts/2023-07-23-to_las/</link>
       <pubDate>Sun, 23 Jul 2023 16:07:28 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-07-23-to_las/</guid>
+      <guid>https://biegiem.github.io/posts/2023-07-23-to_las/</guid>
       <description>Wyobraźcie sobie taką scenę.&#xA;Słońce skryło swe lico za horyzontem. Błękit nieba zdominowała szarość. Trzeba wytężać wzrok, aby dojrzeć szczegóły. Przed wami ciągnie się piękna leśna droga, otoczona z dwóch stron strzelistymi sosnami, których korony niemal giną w chmurach. Z lasu na drogę wypływa niczym biała lawa, delikatny opar. Mgiełka tworzy niezwykły klimat, podkreślając majestat lasu. Biegniecie, chłonąc zachłannie piękno lasu, wciągając głęboko do płuc rześkie powietrze. W jednej chwili to się staje, przepływa przez was energia.</description>
     </item>
     <item>
       <title>Powrót do Magicznego Lasu</title>
-      <link>http://localhost:1313/posts/2023-07-06-powrot-do-magicznego-lasu/</link>
+      <link>https://biegiem.github.io/posts/2023-07-06-powrot-do-magicznego-lasu/</link>
       <pubDate>Thu, 06 Jul 2023 09:09:19 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-07-06-powrot-do-magicznego-lasu/</guid>
+      <guid>https://biegiem.github.io/posts/2023-07-06-powrot-do-magicznego-lasu/</guid>
       <description>Och, mój Lesie! Jakżeś się zmienił! Mała wieś otoczona lasami, dookoła niej łąki, a za łąkami gęsta ściana lasu. Las przedziela na pół asfaltowa droga. Część zachodnia, to właśnie kwietne, pachnące łąki oraz monokulturowy, sosnowy bór o miękkiej niezarośniętej krzaczyskami ściółce. Biały — jakby powiedział zawodnik BnO. Część wschodnia, to porastający wzgórza dziki ostęp pełen grądów, olsów i buczyn. To łęgi, torfowiska i absolutnie puszczański charakter lasu. To ostoja zwierzyny, gdzie drogę przebiegają stada jeleni, w zaroślach słychać odgłosy dzików i gdzie można natknąć się na borsuka, a nawet na tropy wilków.</description>
     </item>
   </channel>
