@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trening on Magiczny Las</title>
+    <link>http://localhost:1313/tags/trening/</link>
+    <description>Recent content in Trening on Magiczny Las</description>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <lastBuildDate>Wed, 11 Oct 2023 10:51:05 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/trening/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kilka faktów z życia biegowego #2</title>
+      <link>http://localhost:1313/posts/2023-11-10-fakty_2/</link>
+      <pubDate>Wed, 11 Oct 2023 10:51:05 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-11-10-fakty_2/</guid>
+      <description>42195 Ukończyć maraton, to cel na ten rok. Był bardzo realny. Niemal pewny. Do momentu, w którym, na dwa tygodnie przed planowanym startem, zaatakowała grypa. Kiedy zwalczyłem chorobę i jako tako doszedłem do siebie, do poznańskiego maratonu pozostał tydzień, który poświęciłem na kilka lekkich treningów. Bieg na dystansie maratońskim odpuściłem. Nie czułem się na siłach. Postanowiłem jednak pobiec półmaraton. Na własnych warunkach. W pięknych okolicznościach przyrody. Na trasie wiodącej przez kotlańskie lasy.</description>
+    </item>
+    <item>
+      <title>Kilka faktów z życia biegowego #1</title>
+      <link>http://localhost:1313/posts/2023-07-31-fakty_1/</link>
+      <pubDate>Mon, 31 Jul 2023 10:51:05 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-07-31-fakty_1/</guid>
+      <description>Bieg długi 90 minut Miałem przed nim obawę. Ostatnie półtorej godziny biegackiego treningu zaliczyłem kilka lat temu. Do tego moja waga, która uparcie trzyma się dziewięćdziesięciu paru kilogramów. Trochę strach mnie obleciał, bo nie chciałem uszkodzić kolan. Do treningu podszedłem spokojnie. Z zimną głową. Trzymałem stałe tempo. Nie cisnąłem. Zrobiłem wszystko, jak należy. Opłacało się. To było świetne, zapomniane doświadczenie.&#xA;Cele Przebiec 42195 metrów. Po to trenuję. Tak jak 15 lat temu.</description>
+    </item>
+    <item>
+      <title>Ciemna Strona Mocy</title>
+      <link>http://localhost:1313/posts/2023-01-29-ciemna_strona_mocy/</link>
+      <pubDate>Sun, 29 Jan 2023 18:00:30 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-01-29-ciemna_strona_mocy/</guid>
+      <description>Ulegam chwilowym słabościom. Niektóre z tych słabości nasilają się lub przejawiają cechy odmienne od chwilowych. Czasami, pomimo tego, że trwam przy postanowieniu, następuje przełom, krótka chwila wahania i… i Ciemna Strona Mocy przyciąga mnie jak magnes. Bywa, że poddaję się bez odrobiny oporu, czasami walczę jak lew, a ginę jak mucha. Jestem pod jej zgubnym wpływem nie cały czas, ale zbyt często niżbym sobie tego życzył. O ile można sobie życzyć jakiegokolwiek istnienia Ciemnej Strony Mocy.</description>
+    </item>
+  </channel>
+</rss>
