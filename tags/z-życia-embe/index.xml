@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>z-życia-embe on Magiczny Las</title>
-    <link>https://www.magicznylas.pl/tags/z-%C5%BCycia-embe/</link>
-    <description>Recent content in z-życia-embe on Magiczny Las</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Z-Życia-Embe on Magiczny Las</title>
+    <link>http://localhost:1313/tags/z-%C5%BCycia-embe/</link>
+    <description>Recent content in Z-Życia-Embe on Magiczny Las</description>
+    <generator>Hugo</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 24 Aug 2023 17:33:47 +0000</lastBuildDate><atom:link href="https://www.magicznylas.pl/tags/z-%C5%BCycia-embe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 17:33:47 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/z-%C5%BCycia-embe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jestem łojantem, czyli kilka akapitów o górze, szalonym planie i o tym, że warto</title>
-      <link>https://www.magicznylas.pl/post/2023-08-24-jestem-lojantem/</link>
+      <link>http://localhost:1313/posts/2023-08-24-jestem-lojantem/</link>
       <pubDate>Thu, 24 Aug 2023 17:33:47 +0000</pubDate>
-      
-      <guid>https://www.magicznylas.pl/post/2023-08-24-jestem-lojantem/</guid>
-      <description>Ponoć, każdy ma swoją górę do zdobycia…
-Moja góra jest cholernie wielka. Czasami jej wielkość mnie przeraża, ale wspinam się po jej stromych zboczach, próbując dotrzeć na sam szczyt. Są jednak takie dni, kiedy myślę, że wierzchołek góry jest odleglejszy, niż się wydaje. Bywa tak wtedy, kiedy nie wszystko idzie po mojej myśli albo kiedy przychodzi okres kompletnej załamki. Panuje ogólna dupówa, woda leje się strumieniami albo wieje paskudny halny, prosto w twarz.</description>
+      <guid>http://localhost:1313/posts/2023-08-24-jestem-lojantem/</guid>
+      <description>Ponoć, każdy ma swoją górę do zdobycia…&#xA;Moja góra jest cholernie wielka. Czasami jej wielkość mnie przeraża, ale wspinam się po jej stromych zboczach, próbując dotrzeć na sam szczyt. Są jednak takie dni, kiedy myślę, że wierzchołek góry jest odleglejszy, niż się wydaje. Bywa tak wtedy, kiedy nie wszystko idzie po mojej myśli albo kiedy przychodzi okres kompletnej załamki. Panuje ogólna dupówa, woda leje się strumieniami albo wieje paskudny halny, prosto w twarz.</description>
     </item>
-    
-    <item>
-      <title>Jestem łojantem, czyli kilka akapitów o górze, szalonym planie i o tym, że warto</title>
-      <link>https://www.magicznylas.pl/posts/2023-08-24-jestem-lojantem/</link>
-      <pubDate>Thu, 24 Aug 2023 17:33:47 +0000</pubDate>
-      
-      <guid>https://www.magicznylas.pl/posts/2023-08-24-jestem-lojantem/</guid>
-      <description>Ponoć, każdy ma swoją górę do zdobycia…
-Moja góra jest cholernie wielka. Czasami jej wielkość mnie przeraża, ale wspinam się po jej stromych zboczach, próbując dotrzeć na sam szczyt. Są jednak takie dni, kiedy myślę, że wierzchołek góry jest odleglejszy, niż się wydaje. Bywa tak wtedy, kiedy nie wszystko idzie po mojej myśli albo kiedy przychodzi okres kompletnej załamki. Panuje ogólna dupówa, woda leje się strumieniami albo wieje paskudny halny, prosto w twarz.</description>
-    </item>
-    
   </channel>
 </rss>
